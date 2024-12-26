@@ -1,7 +1,6 @@
 # Bank-Loan-Report
 This is a project which uses SQL and Power BI:
 For the SQL working tasks, I imported data into my local sql server and wrote queries: 
-<img width="524" alt="image" src="https://github.com/user-attachments/assets/6ffa1f5c-4d74-4c9d-8604-048dce6a10bf" />
 <img width="604" alt="image" src="https://github.com/user-attachments/assets/1039fb12-7d33-49f3-a750-e2e42a129200" />
 <img width="602" alt="image" src="https://github.com/user-attachments/assets/e56af526-3952-4324-97fb-87b327bd8b6b" />
 <img width="602" alt="image" src="https://github.com/user-attachments/assets/0b423849-f22b-4c4f-abf4-bdde9b83f9ec" />
