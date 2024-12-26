@@ -1,0 +1,1 @@
+SELECT * FROM bank_loan_db
