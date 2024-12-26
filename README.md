@@ -7,7 +7,7 @@ For the SQL working tasks, I imported data into my local sql server and wrote qu
 <img width="602" alt="image" src="https://github.com/user-attachments/assets/0b423849-f22b-4c4f-abf4-bdde9b83f9ec" />
 
 
-For the Power BI working tasks. Here are some KPIs or charts I created:
+For the Power BI working tasks. I cleaned data, created data table, created data modeling, and visualized. Here are some KPIs or charts I created:
 **Key Performance Indicators (KPIs) Requirements:**
   1. Total Loan Applications: Month-to-Date (MTD) Loan Applications and Month-over-Month (MoM).
   2. Total Funded Amount: MTD Total Funded Amount and Month-over-Month (MoM).
