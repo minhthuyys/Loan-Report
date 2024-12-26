@@ -15,9 +15,9 @@ For the Power BI working tasks. Here are some KPIs or charts I created:
   4. Average Debt-to-Income Ratio (DTI): Evaluating the average DTI for our borrowers helps us gauge their financial health, MTD, and Month-over-Month (MoM)
 
 **Good loan and bad loan analysis**
-  1.Good and Bad Loan Application Percentage
-  2.Good and Bad Loan Applications
-  3.Good and Bad Loan Funded Amount
+  1. Good and Bad Loan Application Percentage
+  2. Good and Bad Loan Applications
+  3. Good and Bad Loan Funded Amount
 
 **To monitor the performance of loans, we create a grid view report categorized by Loan Status!**
 
